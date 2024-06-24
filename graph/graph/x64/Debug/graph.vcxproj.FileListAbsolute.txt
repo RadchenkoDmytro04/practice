@@ -1,0 +1,3 @@
+C:\Users\PC\OneDrive\Рабочий стол\Практика\програма\graph\graph\x64\Debug\graph.vcxproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Рабочий стол\Практика\програма\graph\graph\x64\Debug\graph.MyForm.resources
+C:\Users\PC\OneDrive\Рабочий стол\Практика\програма\graph\graph\x64\Debug\graph.vcxproj.GenerateResource.cache
